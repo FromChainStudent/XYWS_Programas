@@ -80,6 +80,7 @@ public class MyTextView extends TextView {
 //4、横坐标0到this.getWidth()-1，纵坐标this.getHeight()-1到this.getHeight()-1
 
 //下面用图介绍边框的绘制
+        // 哇  这个破网，我半天才点开
 
     }
 
